@@ -1,0 +1,14 @@
+{
+  "Ayam_Goreng": {
+    "calories": 250,
+    "portion": "1 potong (100g)"
+  },
+  "Nasi_Putih": {
+    "calories": 180,
+    "portion": "1 mangkok (100g)"
+  },
+  "Telur_Goreng": {
+    "calories": 125,
+    "portion": "1 butir (50g)"
+  }
+}
